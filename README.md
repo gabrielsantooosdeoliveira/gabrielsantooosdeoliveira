@@ -1,6 +1,10 @@
+
 # Gabriel Santos
 
-\<p align="left">   \<img src="[https://img.shields.io/badge/Information_Systems-Student-0d1117?style=flat-square](https://img.shields.io/badge/Information_Systems-Student-0d1117?style=flat-square)" />   \<img src="[https://img.shields.io/badge/Computer_Networking-Student-0d1117?style=flat-square](https://img.shields.io/badge/Computer_Networking-Student-0d1117?style=flat-square)" /> \</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Information_Systems-Student-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer_Networking-Student-0d1117?style=flat-square" />
+</p>
 
 ## About Me
 
@@ -12,11 +16,15 @@ I'm interested in software development, data analysis, and computer networks. I 
 
 **Programming Languages**
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=python,c,html,css](https://skillicons.dev/icons?i=python,c,html,css)" /> \</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css" />
+</p>
 
 **Tools & Platforms**
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=git,github,vscode,arduino](https://skillicons.dev/icons?i=git,github,vscode,arduino)" /> \</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
+</p>
 
 - Power BI
 - Microsoft Excel
@@ -24,6 +32,12 @@ I'm interested in software development, data analysis, and computer networks. I 
 
 ## Connect
 
-\<p>   \<a href="[https://www.linkedin.com/in/gabriel-santos-de-oliveira/](https://www.linkedin.com/in/gabriel-santos-de-oliveira/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Profile-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2](https://img.shields.io/badge/LinkedIn-Profile-0d1117?style=flat-square\&logo=linkedin\&logoColor=0A66C2)" />   \</a> \</p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriel-santos-de-oliveira/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" />
+  </a>
+</p>
 
-\<p>   \<sub>Always learning.\</sub> \</p>
+<p>
+  <sub>Always learning.</sub>
+</p>
